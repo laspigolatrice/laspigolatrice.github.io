@@ -2,10 +2,14 @@
 layout: default
 ---
 
-# Contattaci
+# La Spigolatrice
+
+## Contattaci
 
 **Pizzeria La Spigolatrice**
+
 Via Cagliari 25, Pisa
+
 Tel:  [050-563151](tel:+39050563151)
 
 # Antipasti

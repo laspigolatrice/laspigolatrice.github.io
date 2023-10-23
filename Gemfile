@@ -1,4 +1,3 @@
 # Gemfile
 
-gem "jekyll", "~> 4.0"
-gem "minima", github: "jekyll/minima"
+gem "jekyll-remote-theme"

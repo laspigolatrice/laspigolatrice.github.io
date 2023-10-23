@@ -10,7 +10,7 @@ layout: default
 
 Via Cagliari 25, Pisa
 
-Tel:  [050-563151](tel:+39050563151)
+Tel:  [+39050563151](tel:+39050563151)
 
 # Antipasti
 
@@ -18,10 +18,10 @@ I nostri antipasti
 
 | Nome        | Ingredienti          | Prezzo |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Antipasto 1 | ingredienti | prezzo  |
+| Antipasto 2 | ingredienti | prezzo  |
+| Antipasto 3 | ingredienti | prezzo  |
+| Antipasto 4 | ingredienti | prezzo  |
 
 * * *
 
@@ -31,10 +31,10 @@ I nostri primi piatti
 
 | Nome        | Ingredienti          | Prezzo |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Primo 1 | ingredienti | prezzo  |
+| Primo 2 | ingredienti | prezzo  |
+| Primo 3 | ingredienti | prezzo  |
+| Primo 4 | ingredienti | prezzo  |
 
 * * *
 
@@ -44,10 +44,10 @@ Le nostre pizze
 
 | Nome        | Ingredienti          | Prezzo |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Pizza 1 | ingredienti | prezzo  |
+| Pizza 2 | ingredienti | prezzo  |
+| Pizza 3 | ingredienti | prezzo  |
+| Pizza 4 | ingredienti | prezzo  |
 
 * * *
 
@@ -57,9 +57,9 @@ I nostri dolci
 
 | Nome        | Ingredienti          | Prezzo |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Dolce 1 | ingredienti | prezzo  |
+| Dolce 2 | ingredienti | prezzo  |
+| Dolce 3 | ingredienti | prezzo  |
+| Dolce 4 | ingredienti | prezzo  |
 
 * * *

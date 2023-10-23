@@ -2,19 +2,17 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**Pizzeria La Spigolatrice**
 
-[Link to another page](./another-page.html).
+Via Cagliari 25, Pisa
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Tel: +39 050563151
 
 # Antipasti
 
 I nostri antipasti
 
-| Nome        | Ingredienti          | Prezzp |
+| Nome        | Ingredienti          | Prezzo |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
@@ -27,7 +25,7 @@ I nostri antipasti
 
 I nostri primi piatti
 
-| Nome        | Ingredienti          | Prezzp |
+| Nome        | Ingredienti          | Prezzo |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
@@ -40,7 +38,20 @@ I nostri primi piatti
 
 Le nostre pizze
 
-| Nome        | Ingredienti          | Prezzp |
+| Nome        | Ingredienti          | Prezzo |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+* * *
+
+# Dolci
+
+I nostri dolci
+
+| Nome        | Ingredienti          | Prezzo |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |

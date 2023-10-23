@@ -3,5 +3,9 @@ title: La Spigolatrice
 remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
+  - jejyll-remote-theme
+
+remote_theme: jekill/minima
+
 minima:
   skin: dark

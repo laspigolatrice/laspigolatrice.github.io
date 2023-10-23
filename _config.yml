@@ -1,11 +1,15 @@
 title: La Spigolatrice
 # description: Via Cagliari 25, Pisa - +39 050563151
-# theme: minima
-# minima:
-#   skin: dark
-# Add to plugins: list
 plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-octicons
+  - jekyll-toc
+  - jekyll-twitter-plugin
+  - jekyll-relative-links
+  - jekyll-seo-tag
   - jekyll-remote-theme
-
-# set up remote_theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jemoji
 remote_theme: jekyll/minima

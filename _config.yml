@@ -5,7 +5,7 @@ plugins:
   - jekyll-feed
   - jejyll-remote-theme
 
-remote_theme: jekill/minima
+remote_theme: jekyll/minima
 
 minima:
   skin: dark

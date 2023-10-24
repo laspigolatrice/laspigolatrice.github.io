@@ -2,7 +2,7 @@
 layout: base
 ---
 # Antipasti
-{: #antipasti }
+{#antipasti}
 
 I nostri antipasti
 
@@ -16,7 +16,7 @@ I nostri antipasti
 * * *
 
 # Primi Piatti
-{: #primi-piatti }
+{#primi-piatti}
 
 I nostri primi piatti
 
@@ -30,7 +30,7 @@ I nostri primi piatti
 * * *
 
 # Pizze
-{: #pizze }
+{#pizze}
 
 Le nostre pizze
 
@@ -44,7 +44,7 @@ Le nostre pizze
 * * *
 
 # Dolci
-{: #dolci }
+{#dolci}
 
 I nostri dolci
 

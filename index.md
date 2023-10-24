@@ -1,12 +1,18 @@
 ---
 layout: base
-sections:
-  - Antipasti
-  - Primi Piatti
-  - Pizze
-  - Dolci
-  - Contatti
 ---
+
+# La Spigolatrice
+
+# Contatti
+{: #contatti }
+
+**Pizzeria La Spigolatrice**
+
+Via Cagliari 25, Pisa
+
+Tel:  [+39050563151](tel:+39050563151)
+
 # Antipasti
 {: #antipasti }
 
@@ -62,14 +68,3 @@ I nostri dolci
 | Dolce 4 | ingredienti | prezzo  |
 
 * * *
-
-
-# La Spigolatrice
-
-## Contattaci
-
-**Pizzeria La Spigolatrice**
-
-Via Cagliari 25, Pisa
-
-Tel:  [+39050563151](tel:+39050563151)

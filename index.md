@@ -1,5 +1,11 @@
 ---
 layout: base
+sections:
+  - Antipasti
+  - Primi Piatti
+  - Pizze
+  - Dolci
+  - Contatti
 ---
 # Antipasti
 {: #antipasti }

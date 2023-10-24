@@ -1,8 +1,7 @@
 ---
 layout: base
 ---
-
-# La Spigolatrice
+{: #top}
 
 # Contatti
 {: #contatti }
@@ -24,6 +23,8 @@ I nostri antipasti
 | Antipasto 2 | ingredienti | prezzo  |
 | Antipasto 3 | ingredienti | prezzo  |
 | Antipasto 4 | ingredienti | prezzo  |
+
+[Torna su](#top)
 
 * * *
 

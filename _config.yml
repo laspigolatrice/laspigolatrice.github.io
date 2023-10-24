@@ -18,15 +18,3 @@ minima:
 
 social_links:
     - { platform: facebook,       user_url: "https://www.facebook.com/spigolatricepisa" }
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      sections:
-        - Antipasti
-        - Primi Piatti
-        - Pizze
-        - Dolci
-        - Contatti

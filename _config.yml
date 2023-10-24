@@ -15,3 +15,6 @@ remote_theme: jekyll/minima
 
 minima:
   skin: dark
+
+social_links:
+    - { platform: facebook,       user_url: "https://www.facebook.com/spigolatricepisa" }

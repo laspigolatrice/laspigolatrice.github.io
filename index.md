@@ -57,7 +57,7 @@ Le nostre pizze
 
 | Nome        | Ingredienti          | Prezzo |
 |:-------------|:------------------:|:------:|
-| Pizza 1 | ingredienti | prezzoprezzoprezzoprezzoprezzoprezzoprezzo  |
+| Pizza 1 | ingredienti | prezzo  |
 | Pizza 2 | ingredienti | prezzo  |
 | Pizza 3 | ingredienti | prezzo  |
 | Pizza 4 | ingredienti | prezzo  |

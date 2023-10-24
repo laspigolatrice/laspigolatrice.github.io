@@ -2,7 +2,7 @@
 layout: base
 ---
 # Antipasti
-{#antipasti}
+{: #antipasti }
 
 I nostri antipasti
 

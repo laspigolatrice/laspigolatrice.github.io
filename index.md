@@ -12,6 +12,8 @@ Via Cagliari 25, Pisa
 
 Tel:  [+39050563151](tel:+39050563151)
 
+* * *
+
 # Antipasti
 {: #antipasti }
 
@@ -40,6 +42,8 @@ I nostri primi piatti
 | Primo 3 | ingredienti | prezzo  |
 | Primo 4 | ingredienti | prezzo  |
 
+[Torna su](#top)
+
 * * *
 
 # Pizze
@@ -54,6 +58,8 @@ Le nostre pizze
 | Pizza 3 | ingredienti | prezzo  |
 | Pizza 4 | ingredienti | prezzo  |
 
+[Torna su](#top)
+
 * * *
 
 # Dolci
@@ -67,5 +73,23 @@ I nostri dolci
 | Dolce 2 | ingredienti | prezzo  |
 | Dolce 3 | ingredienti | prezzo  |
 | Dolce 4 | ingredienti | prezzo  |
+
+[Torna su](#top)
+
+* * *
+
+# Bevande
+{: #bevande }
+
+Le nostre bevande
+
+| Nome        | Ingredienti          | Prezzo |
+|:-------------|:------------------|:------|
+| Bevanda 1 | ingredienti | prezzo  |
+| Bevanda 2 | ingredienti | prezzo  |
+| Bevanda 3 | ingredienti | prezzo  |
+| Bevanda 4 | ingredienti | prezzo  |
+
+[Torna su](#top)
 
 * * *

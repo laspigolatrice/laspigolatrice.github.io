@@ -20,7 +20,7 @@ Tel:  [+39050563151](tel:+39050563151)
 I nostri antipasti
 
 | Nome        | Ingredienti          | Prezzo |
-|:-------------|:------------------|:------|
+|:-------------|:------------------:|:------:|
 | Antipasto 1 | ingredienti | prezzo  |
 | Antipasto 2 | ingredienti | prezzo  |
 | Antipasto 3 | ingredienti | prezzo  |
@@ -36,7 +36,7 @@ I nostri antipasti
 I nostri primi piatti
 
 | Nome        | Ingredienti          | Prezzo |
-|:-------------|:------------------|:------|
+|:-------------|:------------------:|:------:|
 | Primo 1 | ingredienti | prezzo  |
 | Primo 2 | ingredienti | prezzo  |
 | Primo 3 | ingredienti | prezzo  |
@@ -52,7 +52,7 @@ I nostri primi piatti
 Le nostre pizze
 
 | Nome        | Ingredienti          | Prezzo |
-|:-------------|:------------------|:------|
+|:-------------|:------------------:|:------:|
 | Pizza 1 | ingredienti | prezzo  |
 | Pizza 2 | ingredienti | prezzo  |
 | Pizza 3 | ingredienti | prezzo  |
@@ -68,7 +68,7 @@ Le nostre pizze
 I nostri dolci
 
 | Nome        | Ingredienti          | Prezzo |
-|:-------------|:------------------|:------|
+|:-------------|:------------------:|:------:|
 | Dolce 1 | ingredienti | prezzo  |
 | Dolce 2 | ingredienti | prezzo  |
 | Dolce 3 | ingredienti | prezzo  |
@@ -84,7 +84,7 @@ I nostri dolci
 Le nostre bevande
 
 | Nome        | Ingredienti          | Prezzo |
-|:-------------|:------------------|:------|
+|:-------------|:------------------:|:------:|
 | Bevanda 1 | ingredienti | prezzo  |
 | Bevanda 2 | ingredienti | prezzo  |
 | Bevanda 3 | ingredienti | prezzo  |

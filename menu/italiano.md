@@ -13,39 +13,72 @@ nav_order: 2
 ## Sezioni
 - [Bevande](#bevande)
 
-- Antipasti:
+- [Antipasti](#antipasti)
 
-- Primi Piatti:
+- [Primi-Piatti](#primi)
 
-- Pizze:
+- [Pizze](#pizze)
 
-- Taglieri:
+- [Taglieri](#taglieri)
 
-- Focaccine:
+- [Focaccine](#focaccine)
 
-- Brace:
+- [Brace](#brace)
 
-- Contorni:
+- [Contorni](#contorni)
 
-- Dessert:
+- [Dessert](#dessert)
 
-- Caffè/Amari: 
+- [Caffè/Amari](#caffe)
 
-- Allergeni: 
+- [Allergeni](#allergeni)
 
 * * *
 
 # Bevande
 {: #bevande }
 
-Le nostre bevande
+Bevande alla spina
 
-| Nome        | Ingredienti          | Prezzo |
-|:-------------|:------------------:|:------:|
-| Bevanda 1 | ingredienti | prezzo  |
-| Bevanda 2 | ingredienti | prezzo  |
-| Bevanda 3 | ingredienti | prezzo  |
-| Bevanda 4 | ingredienti | prezzo  |
+|              | Nome                | Prezzo   |
+|:-------------|:-------------------:|:--------:|
+|     | Coca Cola alla spina piccola |  € 3,00  |
+|     | Coca Cola alla spina media   |  € 4,00  |
+|     | Coca Cola alla spina da litro|  € 7,00  |
+|  1  | Birra alla spina piccola     |  € 3,00  |
+|  1  | Birra alla spina media       |  € 4,50  |
+|  1  | Birra alla spina da litro    |  € 8,00  |
+
+Bevande in bottiglia
+
+|              | Nome                | Prezzo   |
+|:-------------|:-------------------:|:--------:|
+|  1  | Moretti/Ichnusa 66 cl        |  € 5,00  |
+|  1  | Ceres/Becks 33 cl            |  € 4,50  |
+|  1  | Birra artigianale            |  € 6,00  |
+
+Altre bevande
+
+|              | Nome                | Prezzo   |
+|:-------------|:-------------------:|:--------:|
+|     | Acqua minerale 50 cl         |  € 2,00  |
+|     | Acqua minerale 1 lt          |  € 2,50  |
+|     | Bibita lattina               |  € 2,50  |
+
+Vini
+
+|              | Nome                | Prezzo   |
+|:-------------|:-------------------:|:--------:|
+|  14   | Vino bianco/rosso alla spina 1/4 lt   |  € 3,00   |
+|  14   | Vino bianco/rosso alla spina 1/2 lt   |  € 4,50   |
+|  14   | Vino bianco/rosso alla spina 1 lt     |  € 7,00   |
+|  14   | Vino bianco/rosso in bottiglia 0,75 l |  € 10,00  |
+
+Spumante
+
+|              | Nome                | Prezzo   |
+|:-------------|:-------------------:|:--------:|
+|  14   | Spumante dolce/secco/prosecco 0,75 l  |  € 15,00   |
 
 [Torna su](#top)
 

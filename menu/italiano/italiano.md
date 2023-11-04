@@ -1,6 +1,6 @@
 ---
 layout: default
-title: italiano
+title: Italiano
 nav_order: 2
 has_children: true
 permalink: /menu/italiano

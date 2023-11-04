@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Menu
-parent: english
+parent: English
 nav_order: 1
 ---

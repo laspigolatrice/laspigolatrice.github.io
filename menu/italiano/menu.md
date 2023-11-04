@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Menu
-parent: italiano
+parent: Italiano
 nav_order: 1
 ---
 {: #top}

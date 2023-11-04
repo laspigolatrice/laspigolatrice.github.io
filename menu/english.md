@@ -1,10 +1,9 @@
 ---
 layout: default
-title: English
+title: Menu - English
 nav_order: 3
 ---
 
-# English
+# Menu - English
 
-English menu
-{: .fs-6 .fw-300 }
+Work in progress...

@@ -18,6 +18,32 @@ Indicazioni Apple Maps: [Apple Maps](https://maps.apple.com/?address=Via%20Cagli
 
 * * *
 
+# Sezioni:
+
+- Bevande: 
+
+- Antipasti:
+
+- Primi Piatti:
+
+- Pizze:
+
+- Taglieri:
+
+- Focaccine:
+
+- Brace:
+
+- Contorni:
+
+- Dessert:
+
+- Caffè/Amari: 
+
+- Allergeni: 
+
+* * *
+
 # Antipasti
 {: #antipasti }
 

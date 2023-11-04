@@ -1,6 +1,6 @@
 ---
-title: Home
-layout: home
+title: Menu - Italiano
+layout: default
 ---
 {: #top}
 

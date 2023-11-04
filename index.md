@@ -10,6 +10,8 @@ permalink: /
 # Contatti
 {: #contatti }
 
+* * *
+
 **Pizzeria La Spigolatrice**
 
 Via Cagliari 25, Pisa

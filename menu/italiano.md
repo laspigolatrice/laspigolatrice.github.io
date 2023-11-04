@@ -11,7 +11,43 @@ nav_order: 2
 * * *
 
 ## Sezioni
-{: .no_toc .text-delta }
+- [Bevande](#bevande)
+
+- Antipasti:
+
+- Primi Piatti:
+
+- Pizze:
+
+- Taglieri:
+
+- Focaccine:
+
+- Brace:
+
+- Contorni:
+
+- Dessert:
+
+- Caffè/Amari: 
+
+- Allergeni: 
+
+* * *
+
+# Bevande
+{: #bevande }
+
+Le nostre bevande
+
+| Nome        | Ingredienti          | Prezzo |
+|:-------------|:------------------:|:------:|
+| Bevanda 1 | ingredienti | prezzo  |
+| Bevanda 2 | ingredienti | prezzo  |
+| Bevanda 3 | ingredienti | prezzo  |
+| Bevanda 4 | ingredienti | prezzo  |
+
+[Torna su](#top)
 
 * * *
 
@@ -74,22 +110,6 @@ I nostri dolci
 | Dolce 2 | ingredienti | prezzo  |
 | Dolce 3 | ingredienti | prezzo  |
 | Dolce 4 | ingredienti | prezzo  |
-
-[Torna su](#top)
-
-* * *
-
-# Bevande
-{: #bevande }
-
-Le nostre bevande
-
-| Nome        | Ingredienti          | Prezzo |
-|:-------------|:------------------:|:------:|
-| Bevanda 1 | ingredienti | prezzo  |
-| Bevanda 2 | ingredienti | prezzo  |
-| Bevanda 3 | ingredienti | prezzo  |
-| Bevanda 4 | ingredienti | prezzo  |
 
 [Torna su](#top)
 

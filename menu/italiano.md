@@ -89,12 +89,17 @@ Spumante
 
 I nostri antipasti
 
-| Nome        | Ingredienti          | Prezzo |
-|:-------------|:------------------:|:------:|
-| Antipasto 1 | ingredienti | prezzo  |
-| Antipasto 2 | ingredienti | prezzo  |
-| Antipasto 3 | ingredienti | prezzo  |
-| Antipasto 4 | ingredienti | prezzo  |
+|              | Nome                            | Prezzo   |
+|:-------------|:-------------------------------:|:--------:|
+|              | Prosciutto                      | € 5,00   |
+| 1, 3, 5      | Crostini assortiti              | € 4,00   |
+|              | Salumi assortiti                | € 6,00   |
+| 3            | Bresaola e rucola               | € 6,00   |
+|              | Prosciutto e formaggio          | € 7,00   |
+|              | Antipasto di terra              | € 7,00   |
+| 1, 3, 5      | Fantasy                         | € 9,00   |
+| 1, 3, 5      | Salmone, burro e pane arrostito | € 10,00  |
+
 
 [Torna su](#top)
 

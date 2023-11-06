@@ -35,7 +35,7 @@ nav_order: 2
 
 * * *
 
-# Bevande
+# Bevande 🍷 
 {: #bevande }
 
 Bevande alla spina
@@ -84,7 +84,7 @@ Spumante
 
 * * *
 
-# Antipasti
+# Antipasti 🍞
 {: #antipasti }
 
 I nostri antipasti
@@ -105,7 +105,7 @@ I nostri antipasti
 
 * * *
 
-# Primi Piatti
+# Primi Piatti 🍝
 {: #primi }
 
 I nostri primi piatti
@@ -124,7 +124,7 @@ I nostri primi piatti
 
 * * *
 
-# Pizze
+# Pizze 🍕
 {: #pizze }
 
 Le nostre pizze

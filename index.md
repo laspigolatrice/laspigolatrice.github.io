@@ -14,13 +14,13 @@ permalink: /
 
 ## Menu
 
-- [Italiano](https://laspigolatrice.github.io/menu/italiano.html)
+- [Italiano 🇮🇹](https://laspigolatrice.github.io/menu/italiano.html)
 
-- [English](https://laspigolatrice.github.io/menu/english.html)
+- [English 🇬🇧](https://laspigolatrice.github.io/menu/english.html)
 
 * * *
 
-**Pizzeria La Spigolatrice**
+**🍕Pizzeria La Spigolatrice🍕**
 
 Via Cagliari 25, Pisa
 

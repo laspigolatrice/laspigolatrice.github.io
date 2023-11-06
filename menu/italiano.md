@@ -110,12 +110,15 @@ I nostri antipasti
 
 I nostri primi piatti
 
-| Nome        | Ingredienti          | Prezzo |
-|:-------------|:------------------:|:------:|
-| Primo 1 | ingredienti | prezzo  |
-| Primo 2 | ingredienti | prezzo  |
-| Primo 3 | ingredienti | prezzo  |
-| Primo 4 | ingredienti | prezzo  |
+|             | Nome                  | Prezzo |
+|:-------------|:--------------------:|:------:|
+| 1       | Penne arrabbiata          | € 7,00  |
+| 1, 3    | Penne panna e prosciutto  | € 8,00  |
+| 1, 3    | Penne ai quattro formaggi | € 8,00  |
+| 1, 3    | Farfalle posillipo        | € 8,00  |
+| 1, 2, 3 | Perine alla carbonara     | € 9,00  |
+| 1, 3    | Penne alla disperata      | € 9,00  |
+| 1, 3, 5 | Farfalle al salmone       | € 9,00  |
 
 [Torna su](#top)
 

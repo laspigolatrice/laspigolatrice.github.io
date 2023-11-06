@@ -106,7 +106,7 @@ I nostri antipasti
 * * *
 
 # Primi Piatti
-{: #primi-piatti }
+{: #primi }
 
 I nostri primi piatti
 

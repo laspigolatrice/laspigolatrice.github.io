@@ -129,12 +129,49 @@ I nostri primi piatti
 
 Le nostre pizze
 
-| Nome        | Ingredienti          | Prezzo |
-|:-------------|:------------------:|:------:|
-| Pizza 1 | ingredienti | prezzo  |
-| Pizza 2 | ingredienti | prezzo  |
-| Pizza 3 | ingredienti | prezzo  |
-| Pizza 4 | ingredienti | prezzo  |
+|         | Nome (Ingredienti)                                                  | Prezzo  |
+|:--------|:-------------------------------------------------------------------:|:-------:|
+| 1       | MARINARA (pomodoro, aglio, origano)                                 | € 5,00  |
+| 1, 3    | MARGHERITA (pomodoro, mozzarella)                                   | € 6,00  |
+| 1, 3    | CIPOLLA (pomodoro, mozzarella, cipolla)                             | € 7,00  |
+| 1, 3, 5 | ROMANA (pomodoro, mozzarella, acciughe)                             | € 7,00  |
+| 1, 3    | FUNGHI (pomodoro, mozzarella, funghi)                               | € 7,00  |
+| 1, 3    | PROSCIUTTO COTTO (pomodoro, mozzarella, cotto)                      | € 7,00  |
+| 1, 3    | WURSTEL (pomodoro, mozzarella, wurstel)                             | € 7,00  |
+| 1, 3    | SALSICCIA (pomodoro, mozzarella, salsiccia)                         | € 7,00  |
+| 1, 3    | SALAMINO (pomodoro, mozzarella, salamino)                           | € 7,00  |
+| 1, 3    | CARCIOFI (pomodoro, mozzarella, carciofi)                           | € 7,00  |
+| 1, 3    | MELANZANE (pomodoro, mozzarella, melanzane)                         | € 7,00  |
+| 1, 3    | PROSCIUTTO E FUNGHI (pomodoro, mozzarella, cotto, funghi)           | € 7,00  |
+| 1, 3    | 4 FORMAGGI (pomodoro, mozzarella, pecorino, zola, groviera)         | € 8,00  |
+| 1, 3    | CALZONE (pomodoro, mozzarella, cotto)                               | € 8,00  |
+| 1, 3    | BUFALINA (pomodoro, mozzarella di bufala, basilico)                 | € 8,00  |
+| 1, 3, 5 | VECCHIA MARINA (pomodoro, capperi, acciughe, parmigiano)            | € 8,00  |
+| 1, 3    | PROSCIUTTO CRUDO (pomodoro, mozzarella, crudo)                      | € 8,00  |
+| 1, 3, 5 | NAPOLI (pomodoro, mozzarella, capperi, acciughe)                    | € 8,00  |
+| 1, 3    | 4 STAGIONI (pomodoro, mozzarella, carciofi, cotto, funghi)          | € 8,00  |
+| 1, 3    | CAPRICCIOSA (pomodoro, mozzarella, carciofi, cotto, funghi, olive)  | € 8,00  |
+| 1, 3    | PARMIGIANA (pomodoro mozzarella, melanzane, parmigano)              | € 8,00  |
+| 1, 3, 5 | TONNO (pomodoro, mozzarella, tonno)                                 | € 8,00  |
+| 1, 3    | SPIGOLATRICE (mozzarella a fette, funghi, salsiccia)                | € 8,50  |
+| 1, 3    | NINNI (pomodorini ciliegini, mozzarella a fette, capperi, basilico) | € 8,50  |
+| 1, 3    | VEGETARIANA (pomodoro, mozzarella, verdure di stagione)             | € 8,50  |
+| 1, 3    | BRESAOLA E RUCOLA (pomodoro, mozzarella, bresaola, rucola)          | € 8,50  |
+| 1, 3    | POKER (pomodoro, mozzarella, speck, rucola, grana)                  | € 8,50  |
+| 1, 3    | DELIZIA (pomodoro, mozzarella, speck, mascarpone)                   | € 8,50  |
+| 1, 3    | GUSTOSA (pomodoro, mozzarella, salsiccia, stracchino)               | € 8,50  |
+| 1, 3    | VESUVIANA (pomodoro, mozzarella, rape, salsiccia)                   | € 8,50  |
+| 1, 3, 5 | TONNO E CIPOLLA (pomodoro, mozzarella, tonno, cipolla)              | € 8,50  |
+| 1, 3, 5 | TONNO E CARCIOFI (pomodoro, mozzarella, tonno, carciofi)            | € 8,50  |
+| 1, 3, 11| BOLOGNESE (pom., mozzarella, mortadella, provola, pistacchi)        | € 8,50  |
+| 1, 3, 5 | PANE ARABO (Iinsalata, tonno, carciofi, crudo, mozzarella, pomodoro)| € 9,00  |
+| 1, 2, 3 | CARBONARA (parmigiano, pancetta, uovo)                              | € 9,00  |
+| 1, 3    | MAIALONA (pomodoro, mozzarella, cotto, salsicci, wurstel, salamino) | € 9,00  |
+| 1, 3    | BRUNELLO (bufala, pom. ciliegini, melanzane, capperi, nduja)        | € 9,00  |
+| 1, 3    | LIVIGNO (pomodoro, mozzarella, speck, brie, pomodorini)             | € 9,00  |
+| 1, 3, 5 | SALMONE (pomodoro, mozzarella, salmone)                             | € 9,00  |
+| 1, 3    | DISPERATA (p(pomodoro, mozzarella, penne alla disperata)            | € 12,00 |
+
 
 [Torna su](#top)
 

@@ -87,8 +87,6 @@ Spumante
 # Antipasti 🍞
 {: #antipasti }
 
-I nostri antipasti
-
 |              | Nome                            | Prezzo   |
 |:-------------|:-------------------------------:|:--------:|
 |              | Prosciutto                      | € 5,00   |
@@ -108,8 +106,6 @@ I nostri antipasti
 # Primi Piatti 🍝
 {: #primi }
 
-I nostri primi piatti
-
 |             | Nome                  | Prezzo |
 |:-------------|:--------------------:|:------:|
 | 1       | Penne arrabbiata          | € 7,00  |
@@ -126,8 +122,6 @@ I nostri primi piatti
 
 # Pizze 🍕
 {: #pizze }
-
-Le nostre pizze
 
 |         | Nome (Ingredienti)                                                  | Prezzo  |
 |:--------|:-------------------------------------------------------------------:|:-------:|
@@ -172,22 +166,165 @@ Le nostre pizze
 | 1, 3, 5 | SALMONE (pomodoro, mozzarella, salmone)                             | € 9,00  |
 | 1, 3    | DISPERATA (p(pomodoro, mozzarella, penne alla disperata)            | € 12,00 |
 
+## Aggiunta ingredienti: € 1,00
+
+## Coperto: € 1,50 a persona
+
+## Questo locale rispetta le norme dell'HACCP
+
 
 [Torna su](#top)
 
 * * *
 
-# Dolci
+# Taglieri 🍕🍕
+{: #taglieri }
+
+|              | Nome                                                      | Prezzo   |
+|:-------------|:---------------------------------------------------------:|:--------:|
+| 1, 3         | Pizza 2 gusti (pomodoro, mozzarella e gusti a scelta)     | € 5,00   |
+
+
+[Torna su](#top)
+
+* * *
+
+# Focaccine 🍕🍕
+{: #focaccine }
+
+|              | Nome                                                      | Prezzo   |
+|:-------------|:---------------------------------------------------------:|:--------:|
+| 1            | Piadina                                                   | € 2,00   |
+| 1            | Cecina a porzione                                         | € 3,00   |
+| 1            | Focaccia con cecina                                       | € 5,00   |
+| 1            | Focaccia prosciutto cotto                                 | € 5,00   |
+| 1            | Focaccia prosciutto crudo                                 | € 5,50   |
+| 1            | Focaccia prosciutto cotto e mozzarella                    | € 6,00   |
+| 1            | Focaccia prosciutto crudo e mozzarella                    | € 6,50   |
+| 1            | Focaccia bresaola e rucola                                | € 6,50   |
+| 1            | Focaccia prosciutto cotto, mozzarella e funghi            | € 6,50   |
+| 1            | Focaccia salsiccia e stracchino                           | € 6,50   |
+| 1            | Focaccia prosciutto speck e fontina                       | € 6,50   |
+
+## Aggiunta ingredienti: € 1,00
+
+## Coperto: € 1,50 a persona
+
+## Questo locale rispetta le norme dell'HACCP
+
+
+[Torna su](#top)
+
+* * *
+
+# Brace 🥩 🍖
+{: #brace }
+
+|              | Nome                      | Prezzo   |
+|:-------------|:-------------------------:|:--------:|
+|              | Wurstel                   | € 5,00   |
+|              | Salsiccia                 | € 5,00   |
+| 3            | Bistecca rucola e grana   | € 5,00   |
+
+
+[Torna su](#top)
+
+* * *
+
+# Contorni 🥗 🍅 🥔 🧀 🥒 🍄
+{: #contorni }
+
+|              | Nome                | Prezzo   |
+|:-------------|:-------------------:|:--------:|
+|              | Insalata verde      | € 5,00   |
+|              | Pomodori            | € 5,00   |
+| 3            | Insalata caprese    | € 5,00   |
+|              | Patate              | € 5,00   |
+| 3            | Formaggi misti      | € 5,00   |
+|              | Verdure grigliate   | € 5,00   |
+|              | Funghi porcini      | € 5,00   |
+
+
+[Torna su](#top)
+
+* * *
+
+# Dolci 🍰
 {: #dolci }
 
-I nostri dolci
+Dolci di nostra produzione 🎂 
 
-| Nome        | Ingredienti          | Prezzo |
-|:-------------|:------------------:|:------:|
-| Dolce 1 | ingredienti | prezzo  |
-| Dolce 2 | ingredienti | prezzo  |
-| Dolce 3 | ingredienti | prezzo  |
-| Dolce 4 | ingredienti | prezzo  |
+|         | Nome            | Prezzo  |
+|:--------|:---------------:|:-------:|
+| 1, 2, 3 | Tiramisù        | € 4,50  |
+| 1, 3    | Creme caramel   | € 4,50  |
+| 3       | Crema catalana  | € 4,50  |
+| 3       | Panna cotta     | € 4,50  |
+| 1, 2, 3 | Zuppa inglese   | € 4,50  |
+| 1, 2, 3 | Coccole         | € 5,50  |
+
+Dolci confezionati 🍓 🍍 🍨
+
+|             | Nome                         | Prezzo  |
+|:------------|:----------------------------:|:-------:|
+|             | Fragole                      | € 3,50  |
+|             | Ananas                       | € 3,50  |
+| 3           | Tartufo bianco/nero          | € 4,00  |
+| 3           | Fragole con panna o gelato   | € 4,50  |
+| 1, 2, 3     | Profiterole                  | € 4,50  |
+| 3           | Tartufo bianco/nero affogato | € 5,00  |
+| 1, 2, 3     | Sorbetto cocco               | € 5,00  |
+| 1, 2, 3, 11 | Sorbetto limone              | € 5,00  |
+
+
+[Torna su](#top)
+
+* * *
+
+# Caffè - Amari ☕️  🥃 
+{: #caffe }
+
+|              | Nome                                     | Prezzo   |
+|:-------------|:----------------------------------------:|:--------:|
+|              | Espresso, decaffeinato, orzo             | € 1,50   |
+|              | Caffè corretto                           | € 2,50   |
+| 3            | Marocchino con panna o cioccolato        | € 2,50   |
+| 3            | Cappuccino                               | € 2,50   |
+| 3            | Caffè shakerato                          | € 3,00   |
+|              | Ponce (livornese / pisana / mandarino)   | € 4,00   |
+|              | Amaro                                    | € 3,00   |
+|              | Whiskey / Grappe                         | € 4,00   |
+
+
+[Torna su](#top)
+
+* * *
+
+# Allergeni 📝 🥚 🥛 🐟 
+{: #allergeni }
+
+Negli alimenti e bevande somministrati possono essere presenti uno o più dei seguenti allergeni:
+
+| Codice     | Nome                                      |
+|-----------:|:------------------------------------------|
+| 1          | Cereali con glutine e prodotti derivati   |
+| 2          | Uova e prodotti contenti uova             |
+| 3          | Latte e prodotti contenti latte           |
+| 4          | Crostacei e prodotti contenti crostacei   |
+| 5          | Pesce e prodotti contenti pesci           |
+| 6          | Frutta a guscio e prodotti derivati       |
+| 7          | Sedano e prodotti contenti sedano         |
+| 8          | Lupini e prodtti contenti lupini          |
+| 9          | Molluschi e prodotti contenti molluschi   |
+| 10         | Soia e prodotti contenti soia             |
+| 11         | Arachidi e prodotti contenti arachidi     |
+| 12         | Senape e prodotti contenti senape         |
+| 13         | Semi di sesamo e prodotti contenti sesamo |
+| 14         | Solfiti                                   |
+
+<u>I clienti con allergie o intolleranze possono chiedere al personale che fornirà le informazioni relative alle materie prime utilizzate nei singoli alimenti.</u>
+
+**Informazione al consumatore finale come richiesto da Reg. 1169/11**
 
 [Torna su](#top)
 

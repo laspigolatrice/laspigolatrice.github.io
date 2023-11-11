@@ -4,7 +4,7 @@ title: Menu - Italiano
 nav_order: 2
 ---
 
-# Menu - Italiano
+# Menu - Italiano 📜
 
 {: #top}
 
@@ -35,12 +35,12 @@ nav_order: 2
 
 * * *
 
-# Bevande 🍷 
+# Bevande 🍺
 {: #bevande }
 
-Bevande alla spina
+Bevande alla spina 🍻
 
-|              | Nome                | Prezzo   |
+| Allergeni    | Nome                | Prezzo   |
 |:-------------|:-------------------:|:--------:|
 |     | Coca Cola alla spina piccola |  € 3,00  |
 |     | Coca Cola alla spina media   |  € 4,00  |
@@ -49,34 +49,34 @@ Bevande alla spina
 |  1  | Birra alla spina media       |  € 4,50  |
 |  1  | Birra alla spina da litro    |  € 8,00  |
 
-Bevande in bottiglia
+Bevande in bottiglia 🍶 🍺
 
-|              | Nome                | Prezzo   |
+| Allergeni    | Nome                | Prezzo   |
 |:-------------|:-------------------:|:--------:|
 |  1  | Moretti/Ichnusa 66 cl        |  € 5,00  |
 |  1  | Ceres/Becks 33 cl            |  € 4,50  |
 |  1  | Birra artigianale            |  € 6,00  |
 
-Altre bevande
+Altre bevande 💧
 
-|              | Nome                | Prezzo   |
+| Allergeni    | Nome                | Prezzo   |
 |:-------------|:-------------------:|:--------:|
 |     | Acqua minerale 50 cl         |  € 2,00  |
 |     | Acqua minerale 1 lt          |  € 2,50  |
 |     | Bibita lattina               |  € 2,50  |
 
-Vini
+Vini 🍷
 
-|              | Nome                | Prezzo   |
+| Allergeni    | Nome                | Prezzo   |
 |:-------------|:-------------------:|:--------:|
 |  14   | Vino bianco/rosso alla spina 1/4 lt   |  € 3,00   |
 |  14   | Vino bianco/rosso alla spina 1/2 lt   |  € 4,50   |
 |  14   | Vino bianco/rosso alla spina 1 lt     |  € 7,00   |
 |  14   | Vino bianco/rosso in bottiglia 0,75 l |  € 10,00  |
 
-Spumante
+Spumante 🥂 🍾
 
-|              | Nome                | Prezzo   |
+| Allergeni    | Nome                | Prezzo   |
 |:-------------|:-------------------:|:--------:|
 |  14   | Spumante dolce/secco/prosecco 0,75 l  |  € 15,00   |
 
@@ -84,10 +84,10 @@ Spumante
 
 * * *
 
-# Antipasti 🍞
-{: #antipasti }
+# Antipasti 🍞 🧈 🥖
+{: #antipasti } 
 
-|              | Nome                            | Prezzo   |
+| Allergeni    | Nome                            | Prezzo   |
 |:-------------|:-------------------------------:|:--------:|
 |              | Prosciutto                      | € 5,00   |
 | 1, 3, 5      | Crostini assortiti              | € 4,00   |
@@ -106,7 +106,7 @@ Spumante
 # Primi Piatti 🍝
 {: #primi }
 
-|             | Nome                  | Prezzo |
+| Allergeni    | Nome                  | Prezzo |
 |:-------------|:--------------------:|:------:|
 | 1       | Penne arrabbiata          | € 7,00  |
 | 1, 3    | Penne panna e prosciutto  | € 8,00  |
@@ -123,7 +123,7 @@ Spumante
 # Pizze 🍕
 {: #pizze }
 
-|         | Nome (Ingredienti)                                                  | Prezzo  |
+|Allergeni| Nome (Ingredienti)                                                  | Prezzo  |
 |:--------|:-------------------------------------------------------------------:|:-------:|
 | 1       | MARINARA (pomodoro, aglio, origano)                                 | € 5,00  |
 | 1, 3    | MARGHERITA (pomodoro, mozzarella)                                   | € 6,00  |
@@ -180,7 +180,7 @@ Spumante
 # Taglieri 🍕🍕
 {: #taglieri }
 
-|              | Nome                                                      | Prezzo   |
+| Allergeni    | Nome                                                      | Prezzo   |
 |:-------------|:---------------------------------------------------------:|:--------:|
 | 1, 3         | Pizza 2 gusti (pomodoro, mozzarella e gusti a scelta)     | € 5,00   |
 
@@ -189,10 +189,10 @@ Spumante
 
 * * *
 
-# Focaccine 🍕🍕
+# Focaccine 🍕 🌮
 {: #focaccine }
 
-|              | Nome                                                      | Prezzo   |
+| Allergeni    | Nome                                                      | Prezzo   |
 |:-------------|:---------------------------------------------------------:|:--------:|
 | 1            | Piadina                                                   | € 2,00   |
 | 1            | Cecina a porzione                                         | € 3,00   |
@@ -220,7 +220,7 @@ Spumante
 # Brace 🥩 🍖
 {: #brace }
 
-|              | Nome                      | Prezzo   |
+| Allergeni    | Nome                      | Prezzo   |
 |:-------------|:-------------------------:|:--------:|
 |              | Wurstel                   | € 5,00   |
 |              | Salsiccia                 | € 5,00   |
@@ -234,7 +234,7 @@ Spumante
 # Contorni 🥗 🍅 🥔 🧀 🥒 🍄
 {: #contorni }
 
-|              | Nome                | Prezzo   |
+| Allergeni    | Nome                | Prezzo   |
 |:-------------|:-------------------:|:--------:|
 |              | Insalata verde      | € 5,00   |
 |              | Pomodori            | € 5,00   |
@@ -254,7 +254,7 @@ Spumante
 
 Dolci di nostra produzione 🎂 
 
-|         | Nome            | Prezzo  |
+|Allergeni| Nome            | Prezzo  |
 |:--------|:---------------:|:-------:|
 | 1, 2, 3 | Tiramisù        | € 4,50  |
 | 1, 3    | Creme caramel   | € 4,50  |
@@ -265,7 +265,7 @@ Dolci di nostra produzione 🎂
 
 Dolci confezionati 🍓 🍍 🍨
 
-|             | Nome                         | Prezzo  |
+| Allergeni   | Nome                         | Prezzo  |
 |:------------|:----------------------------:|:-------:|
 |             | Fragole                      | € 3,50  |
 |             | Ananas                       | € 3,50  |
@@ -284,7 +284,7 @@ Dolci confezionati 🍓 🍍 🍨
 # Caffè - Amari ☕️  🥃 
 {: #caffe }
 
-|              | Nome                                     | Prezzo   |
+| Allergeni    | Nome                                     | Prezzo   |
 |:-------------|:----------------------------------------:|:--------:|
 |              | Espresso, decaffeinato, orzo             | € 1,50   |
 |              | Caffè corretto                           | € 2,50   |

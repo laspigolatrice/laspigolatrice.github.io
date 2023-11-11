@@ -1,20 +1,32 @@
+# title: La Spigolatrice
+# author:
+#   name: La Spigolatrice
+
+# # The `>` after `description:` means to ignore line-breaks until next key.
+# # If you want to omit the line-break after the end of text, use `>-` instead.
+# description: >
+#   Pizzeria La Spigolatrice - Menu
+
+# remote_theme: jekyll/minima
+# plugins:
+#   - jejyll-remote-theme
+
+# remote_theme: jekyll/minima
+
+# minima:
+#   skin: dark
+
+# social_links:
+#     - { platform: facebook,       user_url: "https://www.facebook.com/spigolatricepisa" }
+
+
 title: La Spigolatrice
-author:
-  name: La Spigolatrice
+description: Pizzeria La Spigolatrice - Menu
+theme: just-the-docs
 
-# The `>` after `description:` means to ignore line-breaks until next key.
-# If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  Pizzeria La Spigolatrice - Menu
+url: https://laspigolatrice.github.io
 
-remote_theme: jekyll/minima
-plugins:
-  - jejyll-remote-theme
+# aux_links:
+#   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
-remote_theme: jekyll/minima
-
-minima:
-  skin: dark
-
-social_links:
-    - { platform: facebook,       user_url: "https://www.facebook.com/spigolatricepisa" }
+color_scheme: dark

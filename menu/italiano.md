@@ -164,7 +164,7 @@ Spumante 🥂 🍾
 | 1, 3    | **BRUNELLO** (bufala, pom. ciliegini, melanzane, capperi, nduja)        | € 9,00  |
 | 1, 3    | **LIVIGNO** (pomodoro, mozzarella, speck, brie, pomodorini)             | € 9,00  |
 | 1, 3, 5 | **SALMONE** (pomodoro, mozzarella, salmone)                             | € 9,00  |
-| 1, 3    | **DISPERATA** (p(pomodoro, mozzarella, penne alla disperata)            | € 12,00 |
+| 1, 3    | **DISPERATA** (pomodoro, mozzarella, penne alla disperata)            | € 12,00 |
 
 ## Aggiunta ingredienti: € 1,00
 

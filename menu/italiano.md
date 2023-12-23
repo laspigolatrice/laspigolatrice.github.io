@@ -27,7 +27,7 @@ nav_order: 2
 
 - [Contorni](#contorni)
 
-- [Dessert](#dessert)
+- [Dolci](#dolci)
 
 - [Caffè/Amari](#caffe)
 
@@ -112,7 +112,7 @@ Spumante 🥂 🍾
 | 1, 3    | Penne panna e prosciutto  | € 8,00  |
 | 1, 3    | Penne ai quattro formaggi | € 8,00  |
 | 1, 3    | Farfalle posillipo        | € 8,00  |
-| 1, 2, 3 | Perine alla carbonara     | € 9,00  |
+| 1, 2, 3 | Penne alla carbonara      | € 9,00  |
 | 1, 3    | Penne alla disperata      | € 9,00  |
 | 1, 3, 5 | Farfalle al salmone       | € 9,00  |
 
@@ -157,11 +157,11 @@ Spumante 🥂 🍾
 | 1, 3    | **VESUVIANA** (pomodoro, mozzarella, rape, salsiccia)                   | € 8,50  |
 | 1, 3, 5 | **TONNO E CIPOLLA** (pomodoro, mozzarella, tonno, cipolla)              | € 8,50  |
 | 1, 3, 5 | **TONNO E CARCIOFI** (pomodoro, mozzarella, tonno, carciofi)            | € 8,50  |
-| 1, 3, 11| **BOLOGNESE** (pom., mozzarella, mortadella, provola, pistacchi)        | € 8,50  |
-| 1, 3, 5 | **PANE ARABO** (Iinsalata, tonno, carciofi, crudo, mozzarella, pomodoro)| € 9,00  |
+| 1, 3, 11| **BOLOGNESE** (pomodoro, mozzarella, mortadella, provola, pistacchi)        | € 8,50  |
+| 1, 3, 5 | **PANE ARABO** (insalata, tonno, carciofi, crudo, mozzarella, pomodoro)| € 9,00  |
 | 1, 2, 3 | **CARBONARA** (parmigiano, pancetta, uovo)                              | € 9,00  |
 | 1, 3    | **MAIALONA** (pomodoro, mozzarella, cotto, salsicci, wurstel, salamino) | € 9,00  |
-| 1, 3    | **BRUNELLO** (bufala, pom. ciliegini, melanzane, capperi, nduja)        | € 9,00  |
+| 1, 3    | **BRUNELLO** (bufala, pomodorini ciliegini, melanzane, capperi, nduja)      | € 9,00  |
 | 1, 3    | **LIVIGNO** (pomodoro, mozzarella, speck, brie, pomodorini)             | € 9,00  |
 | 1, 3, 5 | **SALMONE** (pomodoro, mozzarella, salmone)                             | € 9,00  |
 | 1, 3    | **DISPERATA** (pomodoro, mozzarella, penne alla disperata)              | € 12,00 |

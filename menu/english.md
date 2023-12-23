@@ -19,7 +19,7 @@ nav_order: 3
 
 - [Pizzas](#pizzas)
 
-- [Large pizzas](#largepizza)
+- [Large pizzas](#largepizzas)
 
 - [Focaccine](#focaccine)
 
@@ -27,7 +27,7 @@ nav_order: 3
 
 - [Sides](#sides)
 
-- [Dessert](#dessert)
+- [Desserts](#desserts)
 
 - [Coffee/Amari](#coffee)
 
@@ -283,7 +283,7 @@ Commercially prepared desserts 🍓 🍍 🍨
 * * *
 
 # Coffee - Amari ☕️  🥃 
-{: #caffe }
+{: #coffee }
 
 | Allergens    | Name                                     | Price    |
 |:-------------|:----------------------------------------:|:--------:|

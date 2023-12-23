@@ -15,7 +15,7 @@ nav_order: 2
 
 - [Antipasti](#antipasti)
 
-- [Primi-Piatti](#primi)
+- [Primi Piatti](#primi)
 
 - [Pizze](#pizze)
 

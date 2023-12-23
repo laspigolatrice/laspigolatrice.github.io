@@ -196,15 +196,15 @@ Spumante 🥂 🍾
 |:-------------|:---------------------------------------------------------:|:--------:|
 | 1            | Piadina                                                   | € 2,00   |
 | 1            | Cecina slice                                              | € 3,00   |
-| 1            | Focaccia con cecina                                       | € 5,00   |
-| 1            | Focaccia cooked ham                                       | € 5,00   |
-| 1            | Focaccia ham                                              | € 5,50   |
-| 1            | Focaccia cooked ham and mozzarella                        | € 6,00   |
-| 1            | Focaccia ham and mozzarella                               | € 6,50   |
-| 1            | Focaccia bresaola and rockets                             | € 6,50   |
-| 1            | Focaccia cooked ham, mozzarella and mushroooms              | € 6,50   |
-| 1            | Focaccia sausages and stracchino cheese                      | € 6,50   |
-| 1            | Focaccia speck and fontina cheese                           | € 6,50   |
+| 1            | Focaccia with cecina                                      | € 5,00   |
+| 1            | Focaccia with cooked ham                                       | € 5,00   |
+| 1            | Focaccia with ham                                              | € 5,50   |
+| 1            | Focaccia with cooked ham and mozzarella                        | € 6,00   |
+| 1            | Focaccia with ham and mozzarella                               | € 6,50   |
+| 1            | Focaccia with bresaola and rockets                             | € 6,50   |
+| 1            | Focaccia with cooked ham, mozzarella and mushroooms            | € 6,50   |
+| 1            | Focaccia with sausages and stracchino cheese                   | € 6,50   |
+| 1            | Focaccia with speck and fontina cheese                         | € 6,50   |
 
 ### Extra ingredients: € 1,00 (each)
 

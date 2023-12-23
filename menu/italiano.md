@@ -164,7 +164,7 @@ Spumante 🥂 🍾
 | 1, 3    | **BRUNELLO** (bufala, pom. ciliegini, melanzane, capperi, nduja)        | € 9,00  |
 | 1, 3    | **LIVIGNO** (pomodoro, mozzarella, speck, brie, pomodorini)             | € 9,00  |
 | 1, 3, 5 | **SALMONE** (pomodoro, mozzarella, salmone)                             | € 9,00  |
-| 1, 3    | **DISPERATA** (pomodoro, mozzarella, penne alla disperata)            | € 12,00 |
+| 1, 3    | **DISPERATA** (pomodoro, mozzarella, penne alla disperata)              | € 12,00 |
 
 ## Aggiunta ingredienti: € 1,00
 
@@ -180,9 +180,9 @@ Spumante 🥂 🍾
 # Taglieri 🍕🍕
 {: #taglieri }
 
-| Allergeni    | Nome                                                      | Prezzo   |
-|:-------------|:---------------------------------------------------------:|:--------:|
-| 1, 3         | Pizza 2 gusti (pomodoro, mozzarella e gusti a scelta)     | € 5,00   |
+| Allergeni    | Nome                                                      | Prezzo    |
+|:-------------|:---------------------------------------------------------:|:---------:|
+| 1, 3         | Pizza 2 gusti (pomodoro, mozzarella e gusti a scelta)     | € 18,00   |
 
 
 [Torna su](#top)
@@ -220,11 +220,11 @@ Spumante 🥂 🍾
 # Brace 🥩 🍖
 {: #brace }
 
-| Allergeni    | Nome                      | Prezzo   |
-|:-------------|:-------------------------:|:--------:|
-|              | Wurstel                   | € 5,00   |
-|              | Salsiccia                 | € 5,00   |
-| 3            | Bistecca rucola e grana   | € 5,00   |
+| Allergeni    | Nome                      | Prezzo    |
+|:-------------|:-------------------------:|:---------:|
+|              | Wurstel                   | € 6,50    |
+|              | Salsiccia                 | € 6,50    |
+| 3            | Bistecca rucola e grana   | € 18,00   |
 
 
 [Torna su](#top)
@@ -236,10 +236,10 @@ Spumante 🥂 🍾
 
 | Allergeni    | Nome                | Prezzo   |
 |:-------------|:-------------------:|:--------:|
-|              | Insalata verde      | € 5,00   |
-|              | Pomodori            | € 5,00   |
-| 3            | Insalata caprese    | € 5,00   |
-|              | Patate              | € 5,00   |
+|              | Insalata verde      | € 2,50   |
+|              | Pomodori            | € 3,00   |
+| 3            | Insalata caprese    | € 4,00   |
+|              | Patate              | € 4,00   |
 | 3            | Formaggi misti      | € 5,00   |
 |              | Verdure grigliate   | € 5,00   |
 |              | Funghi porcini      | € 5,00   |
@@ -252,7 +252,7 @@ Spumante 🥂 🍾
 # Dolci 🍰
 {: #dolci }
 
-Dolci di nostra produzione 🎂 
+Dolci di nostra produzione 🎂 🥮 
 
 |Allergeni| Nome            | Prezzo  |
 |:--------|:---------------:|:-------:|
@@ -260,6 +260,7 @@ Dolci di nostra produzione 🎂
 | 1, 3    | Creme caramel   | € 4,50  |
 | 3       | Crema catalana  | € 4,50  |
 | 3       | Panna cotta     | € 4,50  |
+| 3       | Cheese cake     | € 4,50  |
 | 1, 2, 3 | Zuppa inglese   | € 4,50  |
 | 1, 2, 3 | Coccole         | € 5,50  |
 

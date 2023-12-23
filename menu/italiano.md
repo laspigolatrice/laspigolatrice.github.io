@@ -166,11 +166,11 @@ Spumante 🥂 🍾
 | 1, 3, 5 | **SALMONE** (pomodoro, mozzarella, salmone)                             | € 9,00  |
 | 1, 3    | **DISPERATA** (pomodoro, mozzarella, penne alla disperata)              | € 12,00 |
 
-## Aggiunta ingredienti: € 1,00
+### Aggiunta ingredienti: € 1,00
 
-## Coperto: € 1,50 a persona
+### Coperto: € 1,50 a persona
 
-## Questo locale rispetta le norme dell'HACCP
+### Questo locale rispetta le norme dell'HACCP
 
 
 [Torna su](#top)
@@ -206,11 +206,11 @@ Spumante 🥂 🍾
 | 1            | Focaccia salsiccia e stracchino                           | € 6,50   |
 | 1            | Focaccia prosciutto speck e fontina                       | € 6,50   |
 
-## Aggiunta ingredienti: € 1,00
+### Aggiunta ingredienti: € 1,00
 
-## Coperto: € 1,50 a persona
+### Coperto: € 1,50 a persona
 
-## Questo locale rispetta le norme dell'HACCP
+### Questo locale rispetta le norme dell'HACCP
 
 
 [Torna su](#top)

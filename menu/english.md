@@ -166,11 +166,11 @@ Spumante 🥂 🍾
 | 1, 3, 5 | **SALMONE** (tomato, mozzarella, salmon)                                         | € 9,00  |
 | 1, 3    | **DISPERATA** (tomato, mozzarella, penne alla disperata)                         | € 12,00 |
 
-## Extra ingredients: € 1,00 (each)
+### Extra ingredients: € 1,00 (each)
 
-## Service charge: € 1,50 per person
+### Service charge: € 1,50 per person
 
-## This business complies with HACCP regulations
+### This business complies with HACCP regulations
 
 
 [Back to top](#top)
@@ -206,11 +206,11 @@ Spumante 🥂 🍾
 | 1            | Focaccia sausages e stracchino cheese                      | € 6,50   |
 | 1            | Focaccia speck e fontina cheese                           | € 6,50   |
 
-## Extra ingredients: € 1,00 (each)
+### Extra ingredients: € 1,00 (each)
 
-## Service charge: € 1,50 per person
+### Service charge: € 1,50 per person
 
-## This business complies with HACCP regulations
+### This business complies with HACCP regulations
 
 
 [Back to top](#top)

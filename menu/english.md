@@ -202,9 +202,9 @@ Spumante 🥂 🍾
 | 1            | Focaccia cooked ham and mozzarella                        | € 6,00   |
 | 1            | Focaccia ham and mozzarella                               | € 6,50   |
 | 1            | Focaccia bresaola and rockets                             | € 6,50   |
-| 1            | Focaccia cooked ham, mozzarella e mushroooms              | € 6,50   |
-| 1            | Focaccia sausages e stracchino cheese                      | € 6,50   |
-| 1            | Focaccia speck e fontina cheese                           | € 6,50   |
+| 1            | Focaccia cooked ham, mozzarella and mushroooms              | € 6,50   |
+| 1            | Focaccia sausages and stracchino cheese                      | € 6,50   |
+| 1            | Focaccia speck and fontina cheese                           | € 6,50   |
 
 ### Extra ingredients: € 1,00 (each)
 
@@ -224,7 +224,7 @@ Spumante 🥂 🍾
 |:-------------|:-------------------------------:|:---------:|
 |              | Wurstel                         | € 6,50    |
 |              | Sausages                        | € 6,50    |
-| 3            | Steak with rockets e parmesan   | € 18,00   |
+| 3            | Steak with rockets and parmesan   | € 18,00   |
 
 
 [Back to top](#top)
